@@ -1,1 +1,1 @@
-web: FLASH_APP=web.py python -m flask run --host=0.0.0 --port=$PORT
+web: FLASH_APP=web.py python -m flask run --host=0.0.0.0 --port=$PORT
